@@ -22,8 +22,8 @@ Investigates **qudit-based QNNs** (multi-level quantum systems) for efficient mu
 
 ├── referencias.bib # Bibliography database
 
-└── template/ 
-   ### SBC template files
+└── template/ # SBC template files
+   
    ├── sbc-template.cls
 
    └── sbc.bst
