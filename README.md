@@ -19,9 +19,13 @@ Investigates **qudit-based QNNs** (multi-level quantum systems) for efficient mu
 
 ## 📁 Repository Structure
 ├── artigo_revolucao_quantica.tex # Main LaTeX document
+
 ├── referencias.bib # Bibliography database
+
 └── template/ # SBC template files
+
 ├── sbc-template.cls
+
 └── sbc.bst
 
 ## ⚙️ Compilation Instructions
