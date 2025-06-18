@@ -44,3 +44,6 @@ Nikolaeva et al. (2024) - Qudit implementations
 Zheng et al. (2022) - Hybrid SVM-QNN framework
 Preskill (2018) - NISQ era challenges
 Li et al. (2020) - Quantum CNN efficiency
+
+# Quebrando-Barreiras-Classicas
+QNNs with qudits: Drastic parametric reduction (852 vs 11.2M in ResNet) for multiclass classification. Audit-NN achieves 93.1% on MNIST. Hybrid SVM-QNN framework reduces quantum operations by 40%. Discusses NISQ challenges (decoherence, fidelity) and applications in medical imaging/genomics. Authors: Dias &amp; Valle.
